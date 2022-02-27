@@ -10,6 +10,9 @@
 1. Logan Milazzo
 1. Rodrigo Mouron
 1. Stephanie Stock
+2. Throckmorton 
+3. Maurice
+4. Gilgamesh, Consumer of Reality
 
 # To run the project, run the following commands:
 ```python
